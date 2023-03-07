@@ -1,0 +1,4 @@
+le codage des couleurs 
+Indispensables pour le design, les couleurs sont présentes sur tous les éléments numériques	
+Codage RVB  : synthèse additive
+Codage TSL: approche naturelle
